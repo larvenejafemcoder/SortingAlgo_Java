@@ -1,5 +1,5 @@
 # Sorting Algorithms in Java 
-## |formerly known as java-sorting
+## |formerly known as java-sorting by growingwiththeweb
 
 [![Build Status](https://travis-ci.org/gwtw/java-sorting.svg?branch=master)](https://travis-ci.org/gwtw/java-sorting)
 
