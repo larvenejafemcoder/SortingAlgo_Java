@@ -1,4 +1,5 @@
-# Sorting Algorithms in Java formerly known as java-sorting
+# Sorting Algorithms in Java 
+## |formerly known as java-sorting
 
 [![Build Status](https://travis-ci.org/gwtw/java-sorting.svg?branch=master)](https://travis-ci.org/gwtw/java-sorting)
 
